@@ -1,0 +1,15 @@
+{
+  "name": "baskin-ts",
+  "version": "1.0.0",
+  "description": "Typescript fractal generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamie Blondin",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.6.2",
+    "sharp": "^0.22.1"
+  }
+}

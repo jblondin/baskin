@@ -1,0 +1,11 @@
+[package]
+name = "baskin-rs"
+version = "0.1.0"
+authors = ["Jamie Blondin <jblondin@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rayon = "1.1"
+ndarray = "0.12"
+num-complex = "0.2"
+image = "0.21"

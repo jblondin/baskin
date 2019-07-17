@@ -1,0 +1,11 @@
+[package]
+name = "baskin-rs-ffi"
+version = "0.1.0"
+authors = ["Jamie Blondin <jblondin@gmail.com>"]
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+baskin-rs = { path = "../baskin-rs" }

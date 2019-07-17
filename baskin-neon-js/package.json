@@ -1,0 +1,16 @@
+{
+  "name": "baskin-neon-js",
+  "version": "0.1.0",
+  "description": "Neon-based interface to baskin fractal generator",
+  "main": "lib/index.js",
+  "author": "Jamie Blondin <jblondin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.6.1",
+    "neon-cli": "^0.2.0",
+    "sharp": "^0.22.1"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}

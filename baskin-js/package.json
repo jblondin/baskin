@@ -1,0 +1,19 @@
+{
+  "name": "baskin-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "baskin-rs-wasm": "file:../baskin-rs-wasm/pkg"
+  },
+  "dependencies": {
+    "ffi": "^2.3.0"
+  }
+}
